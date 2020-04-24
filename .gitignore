@@ -1,0 +1,17 @@
+#Virtual Environments
+env
+
+#Database
+db.sqlite3
+
+#Cache Files
+**/__pycache__
+.env
+*.pyc
+
+#Vscode
+.vscode
+.idea
+
+#Migrations
+*/migrations
